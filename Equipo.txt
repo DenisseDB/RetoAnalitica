@@ -1,2 +1,3 @@
 Equipo conformado por:
 Denisse Dominguez Bolaños A01702603, link repostorio personal -> https://github.com/DenisseDB/Laboratorio_A01702603
+Adrian Matute Beltran A01703889, Repo Local ->https://github.com/Amatt2-B/Laboratorio_Analitica
